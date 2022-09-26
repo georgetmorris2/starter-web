@@ -4,4 +4,10 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+Git practice
+
+## Development
+
+Deployment can be on any web server
+
 Sample website with plenty of files for demos
