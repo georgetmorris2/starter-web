@@ -11,3 +11,7 @@ Git practice
 Deployment can be on any web server
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+2014 Git.Training.
